@@ -5,6 +5,18 @@
 .jumbotron{
   background-color: #E8180C;
 }
+.col-sm-6{
+  background-color: #FFFF0D;
+}
+.alternate{
+  background-color: #FF6F00;
+}
+.other{
+  background-color: #FFFF0D;
+}
+.header{
+  color: white;
+}
 /*.feature{
   background-color: #E8180C;
 }
