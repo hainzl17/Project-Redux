@@ -21,7 +21,8 @@
   background-color: #E8180C;
   color: white;
 }*/
-center{
+.col-sm-12{
+  text-align: center;
   color: white;
   font-family: "Times New Roman", Times, serif;
 }
